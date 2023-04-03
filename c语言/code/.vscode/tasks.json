@@ -1,0 +1,34 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe 生成活动文件",
+			"command": "C:/mingw64/bin/g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${file}",
+				"${fileDirname}\\char.cpp",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "C:/mingw64/bin"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "编译器: C:/mingw64/bin/g++.exe",
+			"presentation": {
+				"panel": "new", // 不同的文件的编译信息将新建一个终端，设置shared将共享一个终端面板
+				"focus": true, // 设为true后可以使执行task时焦点聚集在终端
+				"showReuseMessage": true
+			}
+		}
+	]
+}

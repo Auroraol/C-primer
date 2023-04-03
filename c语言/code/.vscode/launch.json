@@ -1,0 +1,54 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "g++.exe - 生成和调试活动文件",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}.exe",// 将要进行调试的程序的路径  
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [], // 要添加到程序环境的环境变量。示例: [ { "name": "config", "value": "Debug" } ]，而不是 [ { "config": "Debug" } ]
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
+        "setupCommands": [
+          {
+            "description": "为 gdb 启用整齐打印",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          },
+          {
+            "description": "将反汇编风格设置为 Intel",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+          }
+        ],
+        "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+      },
+      {
+        "name": "C/C++ Runner: Debug Session",
+        "type": "cppdbg",
+        "request": "launch",
+        "args": [
+          ""
+        ],
+        "stopAtEntry": false,
+        "cwd": "C:/Users/16658/Desktop/C/code",     //对应修改成项目名称
+        "environment": [],
+        "program": "C:/Users/16658/Desktop/C/code/build/Debug/outDebug",  //对应修改名称
+        "internalConsoleOptions": "openOnSessionStart",
+        "MIMode": "gdb",
+        "miDebuggerPath": "gdb",
+        "externalConsole": false,
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ]
+      }
+    ]
+  }
