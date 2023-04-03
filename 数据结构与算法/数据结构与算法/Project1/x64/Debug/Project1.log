@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\16658\Desktop\数据结构与算法\Project1\源.c(10,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\Project1\源.c(11,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“float *”
+C:\Users\16658\Desktop\数据结构与算法\Project1\源.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

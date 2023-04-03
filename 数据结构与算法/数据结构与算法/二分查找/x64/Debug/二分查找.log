@@ -1,0 +1,7 @@
+﻿  halfFind.cpp
+C:\Users\16658\Desktop\数据结构与算法\二分查找\halfFind.cpp(54,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\二分查找\halfFind.cpp(70,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\二分查找\halfFind.cpp(86,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\二分查找\halfFind.cpp(102,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\二分查找\halfFind.cpp(118,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  二分查找.vcxproj -> C:\Users\16658\Desktop\数据结构与算法\x64\Debug\二分查找.exe

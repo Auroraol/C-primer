@@ -1,0 +1,7 @@
+﻿  图的遍历.cpp
+C:\Users\16658\Desktop\数据结构与算法\图的遍历\图的遍历.cpp(122,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\图的遍历\图的遍历.cpp(124,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\图的遍历\图的遍历.cpp(139,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\图的遍历\图的遍历.cpp(146,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\图的遍历\图的遍历.cpp(266,6): warning C4101: “idx”: 未引用的局部变量
+  图的遍历.vcxproj -> C:\Users\16658\Desktop\数据结构与算法\x64\Debug\图的遍历.exe

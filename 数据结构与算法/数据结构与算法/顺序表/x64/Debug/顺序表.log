@@ -1,0 +1,7 @@
+﻿  SeqList.c
+C:\Users\16658\Desktop\数据结构与算法\顺序表\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x50d 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\16658\Desktop\数据结构与算法\顺序表\SeqList.c(15,22): warning C4133: “=”: 从“SeqList *”到“Data *”的类型不兼容
+  main.c
+C:\Users\16658\Desktop\数据结构与算法\顺序表\SeqList.h(1,1): warning C4828: 文件包含在偏移 0x50d 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  顺序表.vcxproj -> C:\Users\16658\Desktop\数据结构与算法\x64\Debug\顺序表.exe

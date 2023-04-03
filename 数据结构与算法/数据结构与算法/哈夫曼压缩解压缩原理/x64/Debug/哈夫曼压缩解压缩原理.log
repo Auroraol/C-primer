@@ -1,0 +1,12 @@
+﻿  mian.cpp
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(156,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(143,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(324,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(353,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(388,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(331,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(332,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(428,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(465,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\16658\Desktop\数据结构与算法\哈夫曼压缩解压缩原理\mian.cpp(466,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  哈夫曼压缩解压缩原理.vcxproj -> C:\Users\16658\Desktop\数据结构与算法\x64\Debug\哈夫曼压缩解压缩原理.exe

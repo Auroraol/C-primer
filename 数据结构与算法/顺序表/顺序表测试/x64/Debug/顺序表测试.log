@@ -1,0 +1,7 @@
+﻿  min.cpp
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\顺序表测试\min.cpp(23,39): warning C4312: “类型强制转换”: 从“int”转换到更大的“Data”
+  sequence_list.cpp
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\顺序表测试\sequence_list.cpp(141,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Data”
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\顺序表测试\sequence_list.cpp(141,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Data" 的参数 1 冲突
+  正在生成代码...
+  顺序表测试.vcxproj -> C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\x64\Debug\顺序表测试.exe

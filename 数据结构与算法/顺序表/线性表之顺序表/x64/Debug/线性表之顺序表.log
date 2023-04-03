@@ -1,0 +1,10 @@
+﻿  SeqList.c
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\SeqList.c(14,22): warning C4047: “=”:“Data *”与“SeqList *”的间接级别不同
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\SeqList.c(61,30): error C2100: 非法的间接寻址
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\SeqList.c(132,51): warning C4020: “seqList_removePos”: 实参太多
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\SeqList.c(159,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Data”
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\SeqList.c(159,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Data" 的参数 1 冲突
+  main.c
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\main.c(29,29): warning C4022: “seqList_pushback”: 指针与实参 2 不匹配
+C:\Users\16658\Desktop\C++Primer\数据结构与算法\顺序表\线性表之顺序表\main.c(37,27): warning C4022: “seqList_insert”: 指针与实参 3 不匹配
+  正在生成代码...
