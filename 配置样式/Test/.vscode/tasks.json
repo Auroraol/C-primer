@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe 生成活动文件",//任务的名字，可以自己设置
+			"command": "C:/mingw64/bin/g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",//添加gdb调试选项
+				"${file}",//在下面添加
+                // "-I","C:/Users/16658/Desktop/Test/include/*.h",  //在此插入："-I","头文件路径",
+                // "-I","C:/Users/16658/Desktop/Test/src/*.cpp",    //在此插入："-I","源文件路径",   其中 -I（大写i）表示你的头文件路径， -L 表示库文件路径，-l（小写L) 代表库文件 
+				// "${fileDirname}\\studenSystem.cpp", //添加这一行就够了，即为了让编译器找到对应的.cpp文件，如果有其他.cpp文件，继续按照这种方式添加就可以了  // studenSystem.cpp需要对应修改
+				//"${fileDirname}\\*.cpp",
+                "-o",//指定生成可执行文件的名称
+				"${workspaceFolder}\\build\\${fileBasenameNoExtension}.exe",  // 工作区文件夹\\生成exe文件的位置\\无扩展类型的文件名.exe
+			],
+			"options": {
+				"cwd": "C:\\mingw64\\bin"  // 文件位置就是你的mingw64的bin文件夹所在位置
+				
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "编译器: C:/mingw64/bin/g++.exe"
+		}
+	]
+}
