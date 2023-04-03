@@ -1,0 +1,9 @@
+﻿  MasterEncoder.cpp
+C:\Users\16658\Desktop\vsproject\Project6\MasterEncoder.cpp(86,18): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  mian.cpp
+C:\Users\16658\Desktop\vsproject\Project6\mian.cpp(13,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project6.vcxproj -> C:\Users\16658\Desktop\vsproject\Project1\x64\Release\Project6.exe

@@ -1,0 +1,7 @@
+﻿  MasterEncoder.cpp
+C:\Users\16658\Desktop\vsproject\Project6\MasterEncoder.cpp(86,18): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  mian.cpp
+C:\Users\16658\Desktop\vsproject\Project6\mian.cpp(13,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+Project62.rc(4): fatal error RC1015: cannot open include file 'resource2.h'.
+  
