@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\liuwei
+1500.jpg	1	[192, 132, 213, 205]
+1501.jpg	1	[183, 136, 201, 212]
+1502.jpg	1	[161, 149, 186, 233]
